@@ -1,6 +1,6 @@
 {
     "name": "galal/coinbase",
-    "description": "Laravel wrapper for the for the Coinbase Wallet API v2",
+    "description": "Laravel wrapper for the Coinbase Wallet API v2",
     "type": "package",
     "require": {
         "php": ">=5.6.0",
