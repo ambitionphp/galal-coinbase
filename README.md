@@ -7,7 +7,7 @@
 
 Install the library using Composer. Please read the [Composer Documentation](https://getcomposer.org/doc/01-basic-usage.md) if you are unfamiliar with Composer or dependency managers in general.
 
-```php
+```
 composer require galal/coinbase
 ```
 
