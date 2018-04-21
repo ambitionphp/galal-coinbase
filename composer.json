@@ -1,0 +1,24 @@
+{
+    "name": "galal/coinbase",
+    "description": "Laravel wrapper for the for the Coinbase Wallet API v2",
+    "type": "package",
+    "require": {
+        "php": ">=5.6.0",
+        "coinbase/coinbase": "~2.0"
+    },
+    "version":"0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Galal",
+            "email": "ahmed_ggalal@yahoo.com",
+            "role":"Developer"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Galal\\Coinbase\\":"src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
