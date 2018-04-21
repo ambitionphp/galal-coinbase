@@ -20,6 +20,5 @@
             "Galal\\Coinbase\\":"src/"
         }
     },
-     "minimum-stability": "dev",
-    "prefer-stable": true
+     "minimum-stability": "stable"
 }
