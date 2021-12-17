@@ -1,6 +1,6 @@
 <?php
 
-namespace Galal\Coinbase\Exeptions;
+namespace Galal\Coinbase\Exceptions;
 
 
 use Coinbase\Wallet\Exception\HttpException;
