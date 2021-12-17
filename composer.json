@@ -1,10 +1,10 @@
 {
-    "name": "galal/coinbase",
+    "name": "ambitionphp/coinbase-wrapper",
     "description": "Laravel wrapper for the Coinbase Wallet API v2",
     "type": "package",
     "require": {
         "php": ">=5.6.0",
-        "coinbase/coinbase": "~2.0"
+        "ambitionphp/coinbase": "~2.0"
     },
     "version":"1.0",
     "license": "MIT",
